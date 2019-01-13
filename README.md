@@ -1,4 +1,4 @@
-# Science-Fair-2018
+# Science Fair 2017-2018
 
 Awards
 - First Prize in Engineering Mechanics Division at SEFMD (Science and Engineering Fair of Metro Detroit)
